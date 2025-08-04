@@ -83,5 +83,3 @@ You can easily customize this website by:
 - ✅ Social media links
 - ✅ Professional typography
 - ✅ Clean code structure
-
-Enjoy your new website! 🎉 
