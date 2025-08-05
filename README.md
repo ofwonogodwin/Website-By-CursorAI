@@ -1,4 +1,4 @@
-# My Beautiful Website
+# The Website
 
 A modern, responsive website built with HTML and CSS featuring a clean design and excellent user experience.
 
