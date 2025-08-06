@@ -65,14 +65,7 @@ Website/
 
 ## Customization
 
-You can easily customize this website by:
 
-1. **Changing colors**: Modify the CSS variables in `styles.css`
-2. **Updating content**: Edit the text in `index.html`
-3. **Adding sections**: Follow the existing HTML structure
-4. **Modifying styling**: Update the CSS classes
-
-## Features Included
 
 - ✅ Responsive design
 - ✅ Mobile navigation menu
